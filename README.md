@@ -11,7 +11,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 - 💡 Fun fact: I'm graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 Where have learnt HTML, CSS, JavaScript, Reactjs and Python.  
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Enginner, Front Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing olamideomitogun8@gmail.com.
 
 ---
