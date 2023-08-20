@@ -1,6 +1,7 @@
 # Hello there; welcome 👋🏾
-[![Website Badge](https://img.shields.io/badge/-bolajiayodeji.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)](https://bolajiayodeji.com) [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo) 
-[![Linkedin Badge](https://img.shields.io/badge/-iamolatech-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olamide-omitogun-916610226/](https://www.linkedin.com/in/olamide-omitogun-916610226/) [![Twitter Badge](https://img.shields.io/badge/-@iamolatech-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OmitogunOlamid3)](https://twitter.com/OmitogunOlamid3)
+
+[![Website Badge](https://img.shields.io/badge/-olatech.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://olatech.com)](https://olatech.com) [![Linkedin Badge](https://img.shields.io/badge/-iamolatech-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olamide-omitogun-916610226/)](https://www.linkedin.com/in/olamide-omitogun-916610226/) 
+[![Twitter Badge](https://img.shields.io/badge/-@iamolatech-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OmitogunOlamid3)](https://twitter.com/OmitogunOlamid3)
 
 I'm a Software Engineer, and an AltShool graduate. I'm passionate about sharing knowledge, documentation, web engineering and others.  
 
